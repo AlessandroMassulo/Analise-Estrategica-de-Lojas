@@ -34,7 +34,7 @@ Limitações: dada a ausência de dados de custo operacional, esta análise util
   Para mensurar a qualidade da venda e comparar essas grandezas (valor / volume), desenvolveu-se o Índice de Eficiência da Receita (IER). Esta métrica confronta o Valor (potencial de receita) com o Volume (esforço logístico/manuseio). Calculado pela razão: '%Valor da categoria (em relação ao faturamento total)' / '%Volume  da categoria (em relação ao volume total)'. Um IER alto indica máxima geração de caixa com o mínimo de movimentação física.
 
 <img width="575" height="354" alt="image" src="https://github.com/user-attachments/assets/3d021026-af90-4ccf-be07-b8252ea93992" />
-<img width="575" height="354" alt="image" src="https://github.com/user-attachments/assets/b27f102a-bb7b-4ecb-b3d4-87d60249e62d" />
+<img width="372" height="354" alt="image" src="https://github.com/user-attachments/assets/d53b25f8-c324-4a08-bac7-c6833f3f7c39" />
 
   A partir do IER, podemos ver que os eletrodomesticos apresentam uma performance melhor que os eletronicos com uma margem considerável. Em contrapartida, todas as demais categorias performam muito inferiormente aos eletronicos e eletrodomesticos, padrão que se repete em todas as lojas.
   
