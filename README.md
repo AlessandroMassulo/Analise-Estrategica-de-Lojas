@@ -9,7 +9,8 @@ Através da integração de dados financeiros e qualitativos, o estudo avalia a 
 Limitações: dada a ausência de dados de custo operacional, esta análise utiliza métricas de eficiência de faturamento e sentimento do consumidor como os principais proxies (indicadores substitutos) para inferir a viabilidade econômica e a saúde futura das filiais
 
 ## I. Analise exploratoria e Métricas 🕵
-### 1. Faturamento
+
+### 1. Faturamento 📊
 
   A partir de uma análise consolidada do faturamento, observa-se a Loja 1 como líder de performance (26,13% do faturamento), enquanto a Loja 4 figura como o ponto de atenção da rede (23,58%).
 
@@ -21,7 +22,7 @@ Limitações: dada a ausência de dados de custo operacional, esta análise util
 
   Essa disparidade sugere que a operação da Loja 4 está perdendo tração comercial em um ritmo acelerado, tornando-se menos competitiva mesmo em períodos de recuperação da rede.
 
-### 2. Vendas por categoria de produto
+### 2. Vendas por categoria de produto 💵
 
   Observa-se que o tipo de produto com maior valor em vendas são os eletronicos, sendo responsavel por 37,7 % do total de vendas, seguido dos eletrodomesticos com 30% e dos moveis com 17%
 
@@ -45,7 +46,7 @@ Limitações: dada a ausência de dados de custo operacional, esta análise util
   Por fim, quando observado o ticket médio, nota-se que nas categorias com melhor retorno estimado (Eletronicos e Eletrodomesticos) a loja 4 performa abaixo de todas as demais.
 <img width="879" height="414" alt="image" src="https://github.com/user-attachments/assets/37d84ea3-9871-4c7a-af26-d4fc26841046" />
 
-### 3. Média de Avaliação das Lojas 
+### 3. Média de Avaliação das Lojas 📈
 
 Na análise agregada, as médias de avaliação apresentem uma estabilidade aparente:
 <img width="625" height="414" alt="media_ava" src="https://github.com/user-attachments/assets/394670dd-e3fa-4705-b179-df5e46e82a5a" />
@@ -55,7 +56,7 @@ Para investigar mais a fundo o centário, foi aplicada uma análise de detratore
 
 Enquanto o volume de detratores da Loja 1 (líder em vendas) exige uma revisão urgente de processos de escala, a situação da Loja 4 é mais crítica por ser cumulativa: ela falha em gerar receita e falha em satisfazer o cliente. Em um cenário de otimização de ativos, a Loja 4 se consolida como o principal gargalo da rede, onde o investimento necessário para recuperar a imagem e o faturamento dificilmente trará o retorno esperado. Portanto, o aspecto qualitativo ratifica a recomendação de venda imediata da filial.
 
-### 4. Produtos mais e menos vendidos
+### 4. Produtos mais e menos vendidos 📦
 
 A análise do mix de produtos confirma a fragilidade da Loja 4. Enquanto a rede traciona seu faturamento através de itens de alto ticket (Geladeiras e Lavadoras), a Loja 4 apresenta um descompasso estratégico: seus itens mais vendidos são de baixo valor agregado (Livros e Utilidades), enquanto os 'motores de receita' da companhia figuram entre os seus menos vendidos.
 <img width="1015" height="320" alt="image" src="https://github.com/user-attachments/assets/b96aaa43-4dda-4484-91ed-d2a8acbfb5ee" />
@@ -63,7 +64,7 @@ A análise do mix de produtos confirma a fragilidade da Loja 4. Enquanto a rede 
 
 Além do baixo faturamento, essa configuração implica em ineficiência operacional: a filial concentra seu esforço logístico e espaço de armazenamento em categorias como Móveis, que possuem alto custo de ocupação e menor retorno relativo, sem converter as vendas premium que justificariam tal operação. Em suma, a Loja 4 opera com o custo de uma loja de departamentos, mas com o ticket médio de uma loja de conveniência.
 
-### 5. Eficiência logística - frete médio por Loja
+### 5. Eficiência logística - frete médio por Loja 🚅
 
 A análise de eficiência logística revela um paradoxo: embora a Loja 4 tenha o menor frete absoluto (R$ 31,28), ela detém um dos maiores Pesos Logísticos (5,54%).
 <img width="499" height="244" alt="image" src="https://github.com/user-attachments/assets/9d49b88a-b5b4-49d8-a027-717cdec4358e" />
@@ -71,7 +72,7 @@ A análise de eficiência logística revela um paradoxo: embora a Loja 4 tenha o
 
 Dado que o frete é custeado pelo cliente, esse indicador atua como uma barreira de conversão invisível. Enquanto as outras lojas diluem o custo de transporte em produtos de alto valor, a Loja 4 sobrecarrega o consumidor com um custo de frete proporcionalmente alto para itens de baixo ticket. Isso reforça a tese de que a filial está mal posicionada: ela não atrai vendas de alto valor e torna as vendas de baixo valor menos competitivas para o bolso do cliente
 
-## II. Conclusão Final e Recomendações
+## II. Conclusão Final e Recomendações 📋
 Após uma análise profunda das dimensões financeiras, operacionais e qualitativas da rede, a recomendação estratégica para o Sr. João é o desinvestimento (venda) da Loja 4.
 
 ### 1. Justificação da Recomendação (O Caso da Loja 4)
