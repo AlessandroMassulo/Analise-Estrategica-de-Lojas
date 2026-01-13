@@ -29,6 +29,8 @@ Observa-se que o tipo de produto com maior valor em vendas são os eletronicos, 
 
 No tocante ao volume de vendas, as categorias que mais vendem são moveis (19,99%), seguidos pelos eletronicos (18,78%) e brinquedos (13,67%).
 
+<img width="881" height="393" alt="download 2" src="https://github.com/user-attachments/assets/53e45a85-e508-405a-9b9a-c1f6cd9fd3ba" />
+
 
 Quando comparamos essas grandezas, podemos ver que os eletrodomesticos apresentam uma performance melhor que os eletronicos com uma margem considerável. Em contrapartida, todas as demais categorias tem uma perfomance muito inferior aos eletronicos e eletrodomesticos. O padrão se repete em todas as lojas.
 
