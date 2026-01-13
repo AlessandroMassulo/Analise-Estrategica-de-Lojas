@@ -11,12 +11,12 @@ Limitações: dada a ausência de dados de custo operacional, esta análise util
 ## I. Analise exploratoria e Métricas 🕵
 ### 1. Faturamento
 
-A paritr de uma análise consolidada do faturamento, observa-se a Loja 1 como líder de performance (26,13% do faturamento), enquanto a Loja 4 figura como o ponto de atenção da rede (23,58%).
+A paitr de uma análise consolidada do faturamento, observa-se a Loja 1 como líder de performance (26,13% do faturamento), enquanto a Loja 4 figura como o ponto de atenção da rede (23,58%).
 
 <img width="575" height="227" alt="image" src="https://github.com/user-attachments/assets/c2cfd9ca-48db-4351-8c28-98c67304a94c" />
 
-
-
 O cenário crítico da Loja 4 não se resume ao menor volume financeiro, mas à sua perda de eficiência: enquanto as demais unidades sustentaram seus patamares, a Loja 4 apresenta uma retração consistente no Ticket Médio, atingindo seu pior nível no Q1 de 2023.
+
+<img width="575" height="227" alt="image" src="https://github.com/user-attachments/assets/aae67384-c6fc-46fe-8a0d-c01d63731f2e" />
 
 Essa disparidade sugere que a operação da Loja 4 está perdendo tração comercial em um ritmo acelerado, tornando-se menos competitiva mesmo em períodos de recuperação da rede.
