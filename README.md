@@ -55,3 +55,10 @@ Para investigar mais a fundo o centário, foi aplicada uma análise de detratore
 
 Enquanto o volume de detratores da Loja 1 (líder em vendas) exige uma revisão urgente de processos de escala, a situação da Loja 4 é mais crítica por ser cumulativa: ela falha em gerar receita e falha em satisfazer o cliente. Em um cenário de otimização de ativos, a Loja 4 se consolida como o principal gargalo da rede, onde o investimento necessário para recuperar a imagem e o faturamento dificilmente trará o retorno esperado. Portanto, o aspecto qualitativo ratifica a recomendação de venda imediata da filial.
 
+#### 4. Produtos mais e menos vendidos
+
+A análise do mix de produtos confirma a fragilidade da Loja 4. Enquanto a rede traciona seu faturamento através de itens de alto ticket (Geladeiras e Lavadoras), a Loja 4 apresenta um descompasso estratégico: seus itens mais vendidos são de baixo valor agregado (Livros e Utilidades), enquanto os 'motores de receita' da companhia figuram entre os seus menos vendidos.
+<img width="1015" height="320" alt="image" src="https://github.com/user-attachments/assets/b96aaa43-4dda-4484-91ed-d2a8acbfb5ee" />
+<img width="1015" height="288" alt="image" src="https://github.com/user-attachments/assets/773826d5-19df-469e-9e9b-d776ad0eca0c" />
+
+Além do baixo faturamento, essa configuração implica em ineficiência operacional: a filial concentra seu esforço logístico e espaço de armazenamento em categorias como Móveis, que possuem alto custo de ocupação e menor retorno relativo, sem converter as vendas premium que justificariam tal operação. Em suma, a Loja 4 opera com o custo de uma loja de departamentos, mas com o ticket médio de uma loja de conveniência.
