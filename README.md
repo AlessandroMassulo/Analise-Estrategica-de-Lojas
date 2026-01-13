@@ -34,16 +34,14 @@ Limitações: dada a ausência de dados de custo operacional, esta análise util
   Para mensurar a qualidade da venda e comparar essas grandezas (valor / volume), desenvolveu-se o Índice de Eficiência da Receita (IER). Esta métrica confronta o Valor (potencial de receita) com o Volume (esforço logístico/manuseio). Calculado pela razão: '%Valor da categoria (em relação ao faturamento total)' / '%Volume  da categoria (em relação ao volume total)'. Um IER alto indica máxima geração de caixa com o mínimo de movimentação física.
 
 <img width="575" height="354" alt="image" src="https://github.com/user-attachments/assets/3d021026-af90-4ccf-be07-b8252ea93992" />
-<img width="373" height="354" alt="image" src="https://github.com/user-attachments/assets/b27f102a-bb7b-4ecb-b3d4-87d60249e62d" />
-
+<img width="575" height="354" alt="image" src="https://github.com/user-attachments/assets/b27f102a-bb7b-4ecb-b3d4-87d60249e62d" />
 
   A partir do IER, podemos ver que os eletrodomesticos apresentam uma performance melhor que os eletronicos com uma margem considerável. Em contrapartida, todas as demais categorias performam muito inferiormente aos eletronicos e eletrodomesticos, padrão que se repete em todas as lojas.
-
   
-
   Um ponto critico a se notar é que cerca de 41,07% do esforço logístico (volume vendido) gera apenas 7,09% da receita (categorias Esporte,Brinquedos, Utilidades e Livros). Esse fato não é isolado e esta presente em todas as lojas
 
   Recomenda-se uma análise de custos sobre essas categorias para investigar se estão gerando lucro.
 
   Por fim, quando observado o ticket médio, nota-se que nas categorias com melhor retorno estimado (Eletronicos e Eletrodomesticos) a loja 4 performa abaixo de todas as demais.
+<img width="879" height="414" alt="image" src="https://github.com/user-attachments/assets/37d84ea3-9871-4c7a-af26-d4fc26841046" />
 
