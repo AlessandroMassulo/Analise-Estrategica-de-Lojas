@@ -67,6 +67,7 @@ Além do baixo faturamento, essa configuração implica em ineficiência operaci
 ### 5. Eficiência logística - frete médio por Loja 🚅
 
 A análise de eficiência logística revela um paradoxo: embora a Loja 4 tenha o menor frete absoluto (R$ 31,28), ela detém um dos maiores Pesos Logísticos (5,54%).
+
 <img width="499" height="244" alt="image" src="https://github.com/user-attachments/assets/9d49b88a-b5b4-49d8-a027-717cdec4358e" />
 
 
