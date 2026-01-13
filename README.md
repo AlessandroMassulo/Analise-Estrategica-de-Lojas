@@ -17,6 +17,6 @@ Limitações: dada a ausência de dados de custo operacional, esta análise util
 
   O cenário crítico da Loja 4 não se resume ao menor volume financeiro, mas à sua perda de eficiência: enquanto as demais unidades sustentaram seus patamares, a Loja 4 apresenta uma retração consistente no Ticket Médio, atingindo seu pior nível no Q1 de 2023.
 
-<img width="575" height="265" alt="image" src="https://github.com/user-attachments/assets/aae67384-c6fc-46fe-8a0d-c01d63731f2e" />
+<img width="575" height="308" alt="image" src="https://github.com/user-attachments/assets/b1d6c4e7-05ba-468f-a448-f58f26cf6fff" />
 
   Essa disparidade sugere que a operação da Loja 4 está perdendo tração comercial em um ritmo acelerado, tornando-se menos competitiva mesmo em períodos de recuperação da rede.
