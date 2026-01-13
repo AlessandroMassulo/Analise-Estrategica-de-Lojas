@@ -31,10 +31,13 @@ No tocante ao volume de vendas, as categorias que mais vendem são moveis (19,99
 
 <img width="881" height="393" alt="download 2" src="https://github.com/user-attachments/assets/53e45a85-e508-405a-9b9a-c1f6cd9fd3ba" />
 
+Para mensurar a qualidade da venda e comparar essas grandezas (valor / volume), desenvolveu-se o Índice de Eficiência da Receita (IER). Esta métrica confronta o Valor (potencial de receita) com o Volume (esforço logístico/manuseio). Calculado pela razão: '%Valor da cateogoria (em relação ao faturamento total)' / '%Volume  da categoria (em relação ao volume total)'. Um IER alto indica máxima geração de caixa com o mínimo de movimentação física.
 
-Quando comparamos essas grandezas, podemos ver que os eletrodomesticos apresentam uma performance melhor que os eletronicos com uma margem considerável. Em contrapartida, todas as demais categorias tem uma perfomance muito inferior aos eletronicos e eletrodomesticos. O padrão se repete em todas as lojas.
+<img width="575" height="354" alt="image" src="https://github.com/user-attachments/assets/3d021026-af90-4ccf-be07-b8252ea93992" />
 
-Para mensurar a qualidade da venda, desenvolveu-se o Índice de Eficiência da Receita (IER). Esta métrica confronta o Valor (potencial de receita) com o Volume (esforço logístico/manuseio). Calculado pela razão %Valor / %Volume, um IER alto indica máxima geração de caixa com o mínimo de movimentação física
+A partir do IER, podemos ver que os eletrodomesticos apresentam uma performance melhor que os eletronicos com uma margem considerável. Em contrapartida, todas as demais categorias tem uma perfomance muito inferior aos eletronicos e eletrodomesticos, padrão que se repete em todas as lojas.
+
+
 
 
 Um ponto critico a se notar é que cerca de 41,07% do esforço logístico (volume vendido) gera apenas 7,09% da receita (categorias Esporte,Brinquedos, Utilidades e Livros). Esse fato não é isolado e esta presente em todas as lojas
