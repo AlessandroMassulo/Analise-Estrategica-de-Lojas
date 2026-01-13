@@ -25,11 +25,11 @@ Limitações: dada a ausência de dados de custo operacional, esta análise util
 
   Observa-se que o tipo de produto com maior valor em vendas são os eletronicos, sendo responsavel por 37,7 % do total de vendas, seguido dos eletrodomesticos com 30% e dos moveis com 17%
 
-<img width="881" height="393" alt="download" src="https://github.com/user-attachments/assets/64d3e83c-d89d-4f06-b27f-0809af1e55de" />
+<img width="660" height="295" alt="download" src="https://github.com/user-attachments/assets/64d3e83c-d89d-4f06-b27f-0809af1e55de" />
 
   No tocante ao volume de vendas, as categorias que mais vendem são moveis (19,99%), seguidos pelos eletronicos (18,78%) e brinquedos (13,67%).
 
-<img width="881" height="393" alt="download 2" src="https://github.com/user-attachments/assets/53e45a85-e508-405a-9b9a-c1f6cd9fd3ba" />
+<img width="660" height="295" alt="download 2" src="https://github.com/user-attachments/assets/53e45a85-e508-405a-9b9a-c1f6cd9fd3ba" />
 
   Para mensurar a qualidade da venda e comparar essas grandezas (valor / volume), desenvolveu-se o Índice de Eficiência da Receita (IER). Esta métrica confronta o Valor (potencial de receita) com o Volume (esforço logístico/manuseio). Calculado pela razão: '%Valor da categoria (em relação ao faturamento total)' / '%Volume  da categoria (em relação ao volume total)'. Um IER alto indica máxima geração de caixa com o mínimo de movimentação física.
 
