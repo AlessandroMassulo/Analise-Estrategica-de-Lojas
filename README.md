@@ -55,10 +55,42 @@ Para investigar mais a fundo o centário, foi aplicada uma análise de detratore
 
 Enquanto o volume de detratores da Loja 1 (líder em vendas) exige uma revisão urgente de processos de escala, a situação da Loja 4 é mais crítica por ser cumulativa: ela falha em gerar receita e falha em satisfazer o cliente. Em um cenário de otimização de ativos, a Loja 4 se consolida como o principal gargalo da rede, onde o investimento necessário para recuperar a imagem e o faturamento dificilmente trará o retorno esperado. Portanto, o aspecto qualitativo ratifica a recomendação de venda imediata da filial.
 
-#### 4. Produtos mais e menos vendidos
+### 4. Produtos mais e menos vendidos
 
 A análise do mix de produtos confirma a fragilidade da Loja 4. Enquanto a rede traciona seu faturamento através de itens de alto ticket (Geladeiras e Lavadoras), a Loja 4 apresenta um descompasso estratégico: seus itens mais vendidos são de baixo valor agregado (Livros e Utilidades), enquanto os 'motores de receita' da companhia figuram entre os seus menos vendidos.
 <img width="1015" height="320" alt="image" src="https://github.com/user-attachments/assets/b96aaa43-4dda-4484-91ed-d2a8acbfb5ee" />
 <img width="1015" height="288" alt="image" src="https://github.com/user-attachments/assets/773826d5-19df-469e-9e9b-d776ad0eca0c" />
 
 Além do baixo faturamento, essa configuração implica em ineficiência operacional: a filial concentra seu esforço logístico e espaço de armazenamento em categorias como Móveis, que possuem alto custo de ocupação e menor retorno relativo, sem converter as vendas premium que justificariam tal operação. Em suma, a Loja 4 opera com o custo de uma loja de departamentos, mas com o ticket médio de uma loja de conveniência.
+
+### 5. Eficiência logística - frete médio por Loja
+
+A análise de eficiência logística revela um paradoxo: embora a Loja 4 tenha o menor frete absoluto (R$ 31,28), ela detém um dos maiores Pesos Logísticos (5,54%).
+<img width="499" height="244" alt="image" src="https://github.com/user-attachments/assets/9d49b88a-b5b4-49d8-a027-717cdec4358e" />
+
+
+Dado que o frete é custeado pelo cliente, esse indicador atua como uma barreira de conversão invisível. Enquanto as outras lojas diluem o custo de transporte em produtos de alto valor, a Loja 4 sobrecarrega o consumidor com um custo de frete proporcionalmente alto para itens de baixo ticket. Isso reforça a tese de que a filial está mal posicionada: ela não atrai vendas de alto valor e torna as vendas de baixo valor menos competitivas para o bolso do cliente
+
+## II. Conclusão Final e Recomendações
+Após uma análise profunda das dimensões financeiras, operacionais e qualitativas da rede, a recomendação estratégica para o Sr. João é o desinvestimento (venda) da Loja 4.
+
+### 1. Justificação da Recomendação (O Caso da Loja 4)
+A Loja 4 apresenta um quadro de ineficiência estrutural, suportado pelos seguintes pilares:
+
+* **Baixa Conversão de Valor**: Embora o volume de vendas seja equiparável ao das outras unidades, a Loja 4 detém o menor Ticket Médio da rede. A filial falha em converter itens "motores de receita" (Eletrodomésticos e Eletrónicos), concentrando o seu esforço em categorias de baixo valor agregado.
+
+*   **Desequilíbrio Logístico:** A unidade apresenta o menor frete absoluto, mas o maior Peso Logístico (5,54%). Como o frete é pago pelo cliente, este custo atua como uma barreira invisível que impede a venda de produtos mais caros, tornando a loja menos competitiva no seu mercado local.
+
+*   **Fragilidade Qualitativa:** A Loja 4 possui a segunda maior taxa de detratores (16,75%). Ao contrário de lojas de alto volume, onde o erro é uma questão de escala, na Loja 4 a insatisfação é um sintoma de ineficiência operacional que não se justifica pelo retorno financeiro.
+
+### 2. Observação Crítica: Gestão de Risco na Loja 1
+
+Embora a Loja 1 seja a líder em faturamento, a análise de satisfação revelou um sinal de alerta: **a maior taxa de insatisfação da rede (17,17%).**
+
+**Recomendação:** Antes de reinvestir o capital da venda da Loja 4, recomenda-se uma auditoria de processos na Loja 1 para evitar que o faturamento seja comprometido pela perda de reputação a longo prazo.
+
+### 3. Veredito Técnico
+A Loja 4 opera hoje com o **custo de uma loja de departamentos, mas com a rentabilidade de uma loja de conveniência**. A manutenção desta unidade representa um custo de oportunidade alto, visto que o esforço logístico e de pessoal não se traduz em margem ou saúde de marca.
+
+**Ação Recomendada:** Proceder com a liquidação do estoque e venda da licença da filial 4, focando recursos na otimização logística das demais unidades.
+
