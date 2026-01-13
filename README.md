@@ -45,3 +45,13 @@ Limitações: dada a ausência de dados de custo operacional, esta análise util
   Por fim, quando observado o ticket médio, nota-se que nas categorias com melhor retorno estimado (Eletronicos e Eletrodomesticos) a loja 4 performa abaixo de todas as demais.
 <img width="879" height="414" alt="image" src="https://github.com/user-attachments/assets/37d84ea3-9871-4c7a-af26-d4fc26841046" />
 
+### 3. Média de Avaliação das Lojas 
+
+Na análise agregada, as médias de avaliação apresentem uma estabilidade aparente:
+<img width="625" height="414" alt="media_ava" src="https://github.com/user-attachments/assets/394670dd-e3fa-4705-b179-df5e46e82a5a" />
+
+Para investigar mais a fundo o centário, foi aplicada uma análise de detratores (quanto as notas 1 e 2 representam do total das avaliações).  Com essa métrica, revela-se um cenário alarmante: a Loja 4 apresenta a segunda maior taxa de insatisfação da rede (16,75%), o que, somado ao seu baixo desempenho financeiro, cria um cenário de baixa atratividade operacional.
+<img width="625" height="214" alt="image" src="https://github.com/user-attachments/assets/8eebba75-0e62-4e60-bb3b-780aa3fe1f39" />
+
+Enquanto o volume de detratores da Loja 1 (líder em vendas) exige uma revisão urgente de processos de escala, a situação da Loja 4 é mais crítica por ser cumulativa: ela falha em gerar receita e falha em satisfazer o cliente. Em um cenário de otimização de ativos, a Loja 4 se consolida como o principal gargalo da rede, onde o investimento necessário para recuperar a imagem e o faturamento dificilmente trará o retorno esperado. Portanto, o aspecto qualitativo ratifica a recomendação de venda imediata da filial.
+
