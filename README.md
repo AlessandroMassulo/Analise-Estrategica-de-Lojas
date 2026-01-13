@@ -1,0 +1,1 @@
+# Analise-Estrategica-de-Lojas
