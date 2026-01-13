@@ -13,7 +13,7 @@ Limitações: dada a ausência de dados de custo operacional, esta análise util
 
 A paritr de uma análise consolidada do faturamento, observa-se a Loja 1 como líder de performance (26,13% do faturamento), enquanto a Loja 4 figura como o ponto de atenção da rede (23,58%).
 
-<img width="767" height="303" alt="image" src="https://github.com/user-attachments/assets/c2cfd9ca-48db-4351-8c28-98c67304a94c" />
+<img width="575" height="227" alt="image" src="https://github.com/user-attachments/assets/c2cfd9ca-48db-4351-8c28-98c67304a94c" />
 
 
 
