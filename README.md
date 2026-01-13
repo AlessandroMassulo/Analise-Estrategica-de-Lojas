@@ -59,6 +59,7 @@ Enquanto o volume de detratores da Loja 1 (líder em vendas) exige uma revisão 
 ### 4. Produtos mais e menos vendidos 📦
 
 A análise do mix de produtos confirma a fragilidade da Loja 4. Enquanto a rede traciona seu faturamento através de itens de alto ticket (Geladeiras e Lavadoras), a Loja 4 apresenta um descompasso estratégico: seus itens mais vendidos são de baixo valor agregado (Livros e Utilidades), enquanto os 'motores de receita' da companhia figuram entre os seus menos vendidos.
+
 <img width="1015" height="320" alt="image" src="https://github.com/user-attachments/assets/b96aaa43-4dda-4484-91ed-d2a8acbfb5ee" />
 <img width="1015" height="288" alt="image" src="https://github.com/user-attachments/assets/773826d5-19df-469e-9e9b-d776ad0eca0c" />
 
@@ -69,7 +70,6 @@ Além do baixo faturamento, essa configuração implica em ineficiência operaci
 A análise de eficiência logística revela um paradoxo: embora a Loja 4 tenha o menor frete absoluto (R$ 31,28), ela detém um dos maiores Pesos Logísticos (5,54%).
 
 <img width="499" height="244" alt="image" src="https://github.com/user-attachments/assets/9d49b88a-b5b4-49d8-a027-717cdec4358e" />
-
 
 Dado que o frete é custeado pelo cliente, esse indicador atua como uma barreira de conversão invisível. Enquanto as outras lojas diluem o custo de transporte em produtos de alto valor, a Loja 4 sobrecarrega o consumidor com um custo de frete proporcionalmente alto para itens de baixo ticket. Isso reforça a tese de que a filial está mal posicionada: ela não atrai vendas de alto valor e torna as vendas de baixo valor menos competitivas para o bolso do cliente
 
