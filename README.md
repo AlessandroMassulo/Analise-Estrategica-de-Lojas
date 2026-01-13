@@ -1,1 +1,1 @@
-# Análise de Performance de Varejo: Estratégia de Desinvestimento - Challenge Alura Store (ONE - G9)
+# 📊 Análise de Performance de Varejo: Estratégia de Desinvestimento - Challenge Alura Store (ONE - G9)
